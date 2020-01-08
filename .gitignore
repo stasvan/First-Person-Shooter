@@ -4,6 +4,7 @@ Build/*
 !Build/**/*.ico
 Content/StarterContent/*
 Content/InfinityBladeEffects/*
+Content/FPS_Weapon_Bundle/*
 DerivatedDataCache/*
 Intermediate/*
 Saved/*
